@@ -1,0 +1,14 @@
+AudioStreamPlayer2D
+CollisionShape2D
+RigidBody2D
+Area2D
+ParallaxLayer
+ParallaxBackground
+AnimationPlayer
+AnimationTree
+Camera2D
+Panel
+StaticBody2D
+AnimatedSprite2D
+CharacterBody2D
+Label
